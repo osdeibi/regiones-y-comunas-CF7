@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Departamentos y ciudades de Chile para CF7
-Description: Regiones y comunas chilenas en select.
+Plugin Name: Regiones y comunas de Chile para CF7
+Description: Integra dropdowns dinamicos segun la seleccion de Region para usarlo con Contact Form 7.
 Version: 1.0
 Author: Osdeibi Acurero
-Author URI: 
+Author URI: https://osdeibi.dev/
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl.html
 */
